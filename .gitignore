@@ -3,3 +3,4 @@ debug/
 .idea/
 Cargo.lock
 log.db
+append.log
